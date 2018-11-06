@@ -1,0 +1,41 @@
+.header {
+    min-height: 10vh;
+    background-color: rgb(36, 35, 35);    
+    color: white;
+}
+
+body{
+    min-height: 100%;
+    min-width: 100%;
+    background-image: url(/Style/images/semi.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.row1 {
+    color: white;
+    min-height: 10vh;
+}
+
+.row2 {
+    color: white;
+    min-height: 10vh;
+}
+
+.row3 {
+    color: white;
+    min-height: 10vh;
+}
+
+.row4 {
+    color: red;
+    min-height: 10vh;
+    font-size: 35px;
+}
+
+label {
+    font-size: 25px;
+}
