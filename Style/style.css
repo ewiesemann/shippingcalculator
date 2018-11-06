@@ -9,6 +9,7 @@ body{
     min-width: 100%;
     background-image: Url("./images/semi.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 h1 {
