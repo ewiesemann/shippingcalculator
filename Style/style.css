@@ -7,7 +7,7 @@
 body{
     min-height: 100%;
     min-width: 100%;
-    background-image: url("/images/semi.jpg");
+    background-image: url("../semi.jpg");
     background-size: cover;
 }
 
